@@ -1,5 +1,5 @@
 # ClickyGame (Android and Windows)
-ClickyGame, a click game (inspired by cookie clicker, just sucks) for Android and Windows.
+ClickyGame, a click game (inspired by cookie clicker, just more bad) for Android and Windows.
 
 This is my first game, I just did this for my friend, but wanting to let ya (my viewers) feel like what this game could be, so I did the unthinkable — posted it public (not on Play Store and Microsoft Store)
 
